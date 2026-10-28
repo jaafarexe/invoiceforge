@@ -1,0 +1,6 @@
+{
+  "name": "InvoiceForge - Professional Business Invoice Generator",
+  "description": "Create, customize, calculate, and print professional client invoices with instant PDF export, multiple layouts, and automatic tax and discount calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
